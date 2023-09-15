@@ -1,0 +1,2 @@
+# tripify
+Slicing from figma
